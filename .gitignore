@@ -1,0 +1,6 @@
+litteratur/
+**/*.o
+**/*.class
+**/lib
+**/.idea
+**/.vscode
